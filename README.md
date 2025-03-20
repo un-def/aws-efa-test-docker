@@ -1,5 +1,8 @@
 # AWS EFA Docker image for tests
 
+> [!IMPORTANT]
+> Moved to https://github.com/dstackai/dstack/tree/master/docker/efa
+
 This image has the following installed:
 
 * CUDA 12.1
